@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Slaitroc
+Wassup, I’m @Slaitroc, just swaggin' around
 
 <!---
 Slaitroc/Slaitroc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
