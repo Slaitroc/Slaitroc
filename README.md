@@ -1,5 +1,5 @@
 <div align="center">
-    <h5> Wassup, I’m @Slaitroc 📼</h1>
+    <h2> Wassup! I’m @Slaitroc 📼</h2>
     <h5>Just swaggin' around 👾</h5>
 </div>
 <div align="center">
